@@ -1,0 +1,48 @@
+*{padding:0;
+    margin:0;
+    outline:0;
+    box-sizing:border-box;
+    }
+    
+    html,body{font-size:62.5%;
+    font-family:'times new...', times serif;
+    text-rendering:optimizelegibility;
+    height: 100%;
+    width: 100%;
+    }
+    main{
+       
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 40rem;
+        max-height: 40rem;
+        background-color: rgb(51, 255, 0);
+       
+    }
+
+
+    div{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        max-width: 30rem;
+        max-height: 30rem;
+        justify-content: center;
+        align-items: center;
+    }
+    .a{
+        margin-top: 2rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+
+
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
